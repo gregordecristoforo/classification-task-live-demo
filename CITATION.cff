@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Bast
+    given-names: Radovan
+    orcid: https://orcid.org/10.1063/5.0004844 
+  - family-names: Decristoforo
+    given-names: Gregor
+    orcid: https://orcid.org/0000-0002-7616-0946
+title: "My Research Software"
+version: 1.0.0
+doi: 10.5072/zenodo.385142 
+date-released: 2025-10-15
